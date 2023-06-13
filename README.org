@@ -1,0 +1,10 @@
+* trivialib.bdd
+
+BDD and ZDD
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/trivialib.bdd.git   |
+| commit  | a03a31e  |
+| systems | trivialib.bdd |
+|---------+-------------------------------------------|
+
